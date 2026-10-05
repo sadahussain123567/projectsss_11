@@ -48,7 +48,7 @@ export const birthdayData = {
    * If the date has already passed, the countdown automatically aims for the
    * next one. For 24 hours after it starts, the site shows the birthday message.
    */
-  birthday: "2026-10-15T00:00:00",
+  birthday: "2026-10-06T00:00:00",
 
   /** Screen 1 */
   hero: {
